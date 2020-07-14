@@ -3,6 +3,8 @@ Al presionar el  botón,
 se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
-	alert("vergara");
+	alert("Esto funciona de maravilla");
+	confirm("Desea Continuar");
+	prompt("Ingrese nombre");
 }
 
