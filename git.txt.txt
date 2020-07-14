@@ -1,1 +1,7 @@
 Hola Git
+git clone
+git status
+git add .
+git commit -m "Comentario"
+git push origin master
+git pull origin master
